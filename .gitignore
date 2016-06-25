@@ -1,0 +1,8 @@
+
+*.class
+
+*.MF
+
+/target/*.*
+
+target/classes/*.*
